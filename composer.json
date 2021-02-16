@@ -1,0 +1,14 @@
+{
+    "name": "g1alexander/mini-frame-php",
+    "description": "mini framework - modelo, vista, controlador (MVC) creado en php nativo",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "g1alexander",
+            "email": "alexlds26@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
