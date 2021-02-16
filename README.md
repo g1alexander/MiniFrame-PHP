@@ -30,9 +30,9 @@ Este proyecto fue basado de este [articulo][blog_victor] y se le agregaron nueva
 <!-- links -->
 
 [blog_victor]: https://victorroblesweb.es/2013/11/18/tutorial-mvc-en-php-nativo/
-[parameters]: ss
-[htaccess]: hj
-[config_db]: hjs
+[parameters]: https://github.com/g1alexander/MiniFrame-PHP/blob/main/src/backend/config/parameters.php
+[htaccess]: https://github.com/g1alexander/MiniFrame-PHP/blob/main/.htaccess
+[config_db]: https://github.com/g1alexander/MiniFrame-PHP/blob/main/src/backend/config/config_db.php
 [datatables]: https://datatables.net/examples/styling/bootstrap5.html
 [fontawesome]: https://fontawesome.com/
 [sweetalert]: https://sweetalert.js.org/guides/
